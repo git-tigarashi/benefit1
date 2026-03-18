@@ -1,0 +1,9 @@
+# システム・ログ
+debug.log
+*.log
+.workflow_state.json
+.agent-trace/
+
+# OS
+.DS_Store
+Thumbs.db
